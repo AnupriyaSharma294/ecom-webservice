@@ -19,7 +19,7 @@ public class EcomResource {
 	
 	@GetMapping("/hello")
 	public String hello() {
-		return "Hello, wonderfull job!";
+		return "Hello, user it is a new response!";
 	}
 		
 	@GetMapping("/goodluck")
